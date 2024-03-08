@@ -1,0 +1,4 @@
+# ignore build/ and mantain the build/.gitkeep
+
+build/*
+!build/.gitkeep
